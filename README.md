@@ -3,7 +3,7 @@ lib_grove_chainable_RGB_leds
 
 Flyport library for Grove chainable RGB leds, released under GPL v.3.<br>
 The library allows to connect several different RGB leds on a single line. Functions are available to change the number of leds and the color of each one of them, so a stripe of many different colored led can be create. <BR>
-Functions can also be used to create transitions or special effects in easy way. An example of usage follows. More infos on wiki.openpicus.com.
+Functions can also be used to create transitions or special effects in easy way. An example of usage follows, supporting 2 different leds. More infos on wiki.openpicus.com.
 <br>1) import files inside Flyport IDE using the external libs button.<br>
 2) add following code example in FlyportTask.c:
 
